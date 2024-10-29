@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aditya
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Aditya!" src="./assets/gh-readme-header.png" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
